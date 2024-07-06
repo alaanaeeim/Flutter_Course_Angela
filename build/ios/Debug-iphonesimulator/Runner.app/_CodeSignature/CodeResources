@@ -10,7 +10,7 @@
 		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
-		WBDcNG/0BUOtsKQgKYOLyuqAbAM=
+		tDazTqIMoCpqIi5GfVNb8SWPwDI=
 		</data>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		1hELRUzjLdAa2uU7DxuTpvdyekU=
+		Q6bJxPWLrvVbZFysWBtknSwlVt8=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		zHE8Z1v3TTPijbRbf9XXvg9uLsQ=
+		fiuXCw9WxM+V3thhooB2nEquXvI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		y559IiYQApQjLgQjOrg3L38sS+A=
+		2wvd8XdGKRxf54AgC8vPV7BrHsI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		7yq+Rb8OwxLx4qaAfjNsOvJq72o=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		1XlT6NJypFKJKQc+Np4/JsxLCBg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -76,13 +76,21 @@
 		<data>
 		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/diamond.png</key>
+		<data>
+		1pcpi0oaM7h1ZYWigamcwp4Lauc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/i_am_rich_app_icon.png</key>
+		<data>
+		gBfX2VLzsHVJNZ/y3qSkrwV5H1U=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<data>
 		lKuH9ddHfuQ0gay79iWXgmH3gCo=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		GtQn4KRz8ptF0py4DLsf5w1guX0=
+		2MnZMEQ/KjasZ6vCWcSL/oTRtsQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -186,7 +194,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SJS1Mc3Zw+JT3G0kGR6sjaePoc4=
+		NddIb2xUcyNBytRsWID8tqoTEJ8=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -206,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gb4XFIHccaCygD680B3YsMX9V3je40wKPKvJSMIl8k4=
+			AG4mLQ4skPO3c8e7BtFXwsxxfbcG96ZY49MRhytU9v0=
 			</data>
 		</dict>
 		<key>AppIcon76x76@2x~ipad.png</key>
@@ -220,7 +228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EUomjDyZGNKmKegbYrJfR9TPT/APnHd7VSsQbzf1dm8=
+			7Vzi3OLquNxmjNkcXm/kNZYWYxpJroCtH+mYYt3n4aI=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -269,7 +277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ciCGt6GXXOckLY/V6YxU4GV8EXwvl5Jl92dM5/vlO00=
+			u9ZdpVg28ruzwJjhhnTozOGQRZnX4XycGAUyLtMdAWU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -283,21 +291,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lb1yKZ6tu+kLp68LTUi0hu0T64pqGidniwGXNgQj4Q8=
+			lz/odHFKPqf82cfP8pHNpJ9o0RJqJFHsA2w4tDUtZUM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			uxDflqejp12+99Jnvcg2jzkLez56vd6Jvsg/QIH19zE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			+Gl/oq0sg5eHOinlqq6WEdppV0TduJd08H1dOg+2cjs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -321,6 +329,20 @@
 			2YZbZxoJ1oPROoYwidiCXg9ho3aWzl19RIvIAjqmJFM=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/diamond.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bg3J5duFTEwkTPVtxcf3A2MuBSIVtmIUvx/oel02H30=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/i_am_rich_app_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CXFRcqc8PmOwObJIPZv/39FRq3e1rns9E7mC9oxt51o=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
@@ -332,7 +354,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T4Cx1Tq3TVxvMP2kYA3ffXo7X1z1NEuB/qZUUgY1YlA=
+			pW9LKvzCLCP74pzc+umuh6aWUupRN2G8AVsvaogkiD8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
