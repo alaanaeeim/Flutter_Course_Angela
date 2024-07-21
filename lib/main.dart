@@ -26,8 +26,8 @@ class AudioPlayerScreen extends StatefulWidget {
 }
 
 class AudioPlayerScreenState extends State<AudioPlayerScreen> {
-  final AudioPlayer _audioPlayer = AudioPlayer();
-  final AudioCache _audioCache = AudioCache(prefix: 'assets/audios/');
+  final _audioPlayer = AudioPlayer();
+  final _audioCache = AudioCache(prefix: 'assets/audios/');
 
   @override
   void initState() {
@@ -44,6 +44,19 @@ class AudioPlayerScreenState extends State<AudioPlayerScreen> {
   void dispose() {
     _audioPlayer.dispose();
     super.dispose();
+  }
+
+  Expanded buildPlaySection(String toneName, Color colorTone) {
+    return Expanded(
+      child: FloatingActionButton(
+        onPressed: () {
+          _playAudio(toneName);
+        },
+        child: Container(
+          color: colorTone,
+        ),
+      ),
+    );
   }
 
   @override
@@ -63,74 +76,33 @@ class AudioPlayerScreenState extends State<AudioPlayerScreen> {
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          Expanded(
-            child: FloatingActionButton(
-              onPressed: () {
-                _playAudio('note1.wav');
-              },
-              child: Container(
-                color: Colors.pink,
-              ),
-            ),
+          buildPlaySection(
+            'note1.wav',
+            Colors.pink,
           ),
-          Expanded(
-            child: FloatingActionButton(
-              onPressed: () {
-                _playAudio('note2.wav');
-              },
-              child: Container(
-                color: Colors.deepOrange,
-              ),
-            ),
+          buildPlaySection(
+            'note2.wav',
+            Colors.deepOrange,
           ),
-          Expanded(
-            child: FloatingActionButton(
-              onPressed: () {
-                _playAudio('note3.wav');
-              },
-              child: Container(
-                color: Colors.orange[700],
-              ),
-            ),
+          buildPlaySection(
+            'note3.wav',
+            Colors.orange,
           ),
-          Expanded(
-            child: FloatingActionButton(
-              onPressed: () {
-                _playAudio('note4.wav');
-              },
-              child: Container(
-                color: Colors.teal,
-              ),
-            ),
+          buildPlaySection(
+            'note4.wav',
+            Colors.teal,
           ),
-          Expanded(
-            child: FloatingActionButton(
-              onPressed: () {
-                _playAudio('note5.wav');
-              },
-              child: Container(
-                color: Colors.yellow,
-              ),
-            ),
+          buildPlaySection(
+            'note5.wav',
+            Colors.yellow,
           ),
-          Expanded(
-            child: FloatingActionButton(
-                onPressed: () {
-                  _playAudio('note6.wav');
-                },
-                child: Container(
-                  color: Colors.lime,
-                )),
+          buildPlaySection(
+            'note6.wav',
+            Colors.lime,
           ),
-          Expanded(
-            child: FloatingActionButton(
-              onPressed: () {
-                _playAudio('note7.wav');
-              },
-              child: Container(
-                color: Colors.green,
-              ),
-            ),
+          buildPlaySection(
+            'note7.wav',
+            Colors.green,
           ),
         ],
       ),

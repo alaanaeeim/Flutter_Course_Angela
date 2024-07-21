@@ -24,10 +24,6 @@
 		<data>
 		4k56YZwtSHl4qhp9Vxg1JHpgEBU=
 		</data>
-		<key>flutter_assets/assets/audios/note1.mp3</key>
-		<data>
-		BUm45rDXi0o58XrVYfgsX+l+iqs=
-		</data>
 		<key>flutter_assets/assets/audios/note1.wav</key>
 		<data>
 		BUm45rDXi0o58XrVYfgsX+l+iqs=
@@ -66,7 +62,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		wBXFy/yLAM2MDFQYqFjA/Nyk7uM=
+		YiEt3ZkO05gjjmKEqWJ5n6lp+0Y=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -109,13 +105,6 @@
 			<key>hash2</key>
 			<data>
 			J5nP44/2Yd0puo6fP9SV3gWqt190d+5rUKz4fAcAeEM=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/audios/note1.mp3</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			J1hBQoxuHCDdGMx0hGYbYZpvc9h8WiVNQcA2Li7Dzm4=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/audios/note1.wav</key>
@@ -185,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rFzxQxf34/bnsdo7SU0P7Oc8iYZtLws0hOAJFhzjF30=
+			+5R+Fq59pndCFaWNQBzHc4pY6d2r3r0l+qri7Xp3tIE=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
